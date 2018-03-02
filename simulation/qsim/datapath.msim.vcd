@@ -1,0 +1,198 @@
+$comment
+	File created using the following command:
+		vcd file datapath.msim.vcd -direction
+$end
+$date
+	Thu Mar  1 20:34:48 2018
+$end
+$version
+	ModelSim Version 10.1e
+$end
+$timescale
+	1ps
+$end
+$scope module UZE_vlg_vec_tst $end
+$var reg 16 ! in1 [15:0] $end
+$var wire 1 " result [31] $end
+$var wire 1 # result [30] $end
+$var wire 1 $ result [29] $end
+$var wire 1 % result [28] $end
+$var wire 1 & result [27] $end
+$var wire 1 ' result [26] $end
+$var wire 1 ( result [25] $end
+$var wire 1 ) result [24] $end
+$var wire 1 * result [23] $end
+$var wire 1 + result [22] $end
+$var wire 1 , result [21] $end
+$var wire 1 - result [20] $end
+$var wire 1 . result [19] $end
+$var wire 1 / result [18] $end
+$var wire 1 0 result [17] $end
+$var wire 1 1 result [16] $end
+$var wire 1 2 result [15] $end
+$var wire 1 3 result [14] $end
+$var wire 1 4 result [13] $end
+$var wire 1 5 result [12] $end
+$var wire 1 6 result [11] $end
+$var wire 1 7 result [10] $end
+$var wire 1 8 result [9] $end
+$var wire 1 9 result [8] $end
+$var wire 1 : result [7] $end
+$var wire 1 ; result [6] $end
+$var wire 1 < result [5] $end
+$var wire 1 = result [4] $end
+$var wire 1 > result [3] $end
+$var wire 1 ? result [2] $end
+$var wire 1 @ result [1] $end
+$var wire 1 A result [0] $end
+$var wire 1 B sampler $end
+$scope module i1 $end
+$var wire 1 C gnd $end
+$var wire 1 D vcc $end
+$var wire 1 E unknown $end
+$var tri1 1 F devclrn $end
+$var tri1 1 G devpor $end
+$var tri1 1 H devoe $end
+$var wire 1 I result[0]~output_o $end
+$var wire 1 J result[1]~output_o $end
+$var wire 1 K result[2]~output_o $end
+$var wire 1 L result[3]~output_o $end
+$var wire 1 M result[4]~output_o $end
+$var wire 1 N result[5]~output_o $end
+$var wire 1 O result[6]~output_o $end
+$var wire 1 P result[7]~output_o $end
+$var wire 1 Q result[8]~output_o $end
+$var wire 1 R result[9]~output_o $end
+$var wire 1 S result[10]~output_o $end
+$var wire 1 T result[11]~output_o $end
+$var wire 1 U result[12]~output_o $end
+$var wire 1 V result[13]~output_o $end
+$var wire 1 W result[14]~output_o $end
+$var wire 1 X result[15]~output_o $end
+$var wire 1 Y result[16]~output_o $end
+$var wire 1 Z result[17]~output_o $end
+$var wire 1 [ result[18]~output_o $end
+$var wire 1 \ result[19]~output_o $end
+$var wire 1 ] result[20]~output_o $end
+$var wire 1 ^ result[21]~output_o $end
+$var wire 1 _ result[22]~output_o $end
+$var wire 1 ` result[23]~output_o $end
+$var wire 1 a result[24]~output_o $end
+$var wire 1 b result[25]~output_o $end
+$var wire 1 c result[26]~output_o $end
+$var wire 1 d result[27]~output_o $end
+$var wire 1 e result[28]~output_o $end
+$var wire 1 f result[29]~output_o $end
+$var wire 1 g result[30]~output_o $end
+$var wire 1 h result[31]~output_o $end
+$var wire 1 i in1[0]~input_o $end
+$var wire 1 j in1[1]~input_o $end
+$var wire 1 k in1[2]~input_o $end
+$var wire 1 l in1[3]~input_o $end
+$var wire 1 m in1[4]~input_o $end
+$var wire 1 n in1[5]~input_o $end
+$var wire 1 o in1[6]~input_o $end
+$var wire 1 p in1[7]~input_o $end
+$var wire 1 q in1[8]~input_o $end
+$var wire 1 r in1[9]~input_o $end
+$var wire 1 s in1[10]~input_o $end
+$var wire 1 t in1[11]~input_o $end
+$var wire 1 u in1[12]~input_o $end
+$var wire 1 v in1[13]~input_o $end
+$var wire 1 w in1[14]~input_o $end
+$var wire 1 x in1[15]~input_o $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1101101110111110 !
+0A
+0@
+0?
+0>
+0=
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+10
+1/
+1.
+1-
+1,
+0+
+1*
+1)
+1(
+0'
+1&
+1%
+0$
+1#
+1"
+xB
+0C
+1D
+xE
+1F
+1G
+1H
+0I
+0J
+0K
+0L
+0M
+0N
+0O
+0P
+0Q
+0R
+0S
+0T
+0U
+0V
+0W
+0X
+0Y
+1Z
+1[
+1\
+1]
+1^
+0_
+1`
+1a
+1b
+0c
+1d
+1e
+0f
+1g
+1h
+0i
+1j
+1k
+1l
+1m
+1n
+0o
+1p
+1q
+1r
+0s
+1t
+1u
+0v
+1w
+1x
+$end
+#1000000
